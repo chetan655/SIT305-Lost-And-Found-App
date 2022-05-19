@@ -40,7 +40,6 @@ public class SearchAdvert extends AppCompatActivity {
             Intent removeAdvertIntent =  new Intent(SearchAdvert.this, RemoveAdvert.class);
             System.out.println(i);
             removeAdvertIntent.putExtra("ItemId", i);
-            //removeAdvertIntent.putExtra("ItemId", itemList.get(i).);
             startActivity(removeAdvertIntent);
         });
     }
