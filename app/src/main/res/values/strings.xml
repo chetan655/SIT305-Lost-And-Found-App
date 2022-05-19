@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Lost And Found App</string>
+    <string name="new_advert_btn">CREATE A NEW ADVERT</string>
+    <string name="show_all_items_btn">SHOW ALL LOST AND FOUND ITEMS</string>
+    <string name="home_layout_title_tv">LOST AND FOUND APP</string>
+    <string name="new_advert_name_et">NAME</string>
+    <string name="new_advert_phone_et">PHONE</string>
+    <string name="new_advert_description_et">DESCRIPTION</string>
+    <string name="new_advert_date_et">DATE</string>
+    <string name="new_advert_location_et">LOCATION</string>
+    <string name="new_advert_save_btn">SAVE</string>
+    <string name="advert_details_location_et">LOCATION</string>
+    <string name="advert_details_description_et">DESCRIPTION</string>
+    <string name="advert_details_date_et">DATE</string>
+    <string name="advert_details_title_tv">ITEM DETAILS</string>
+    <string name="advert_details_remove_btn">REMOVE</string>
+    <string name="advert_search_title_tv">LOST AND FOUND ITEMS</string>
 </resources>
